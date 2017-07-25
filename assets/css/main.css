@@ -3917,3 +3917,15 @@
 			}
 
 		}
+
+		#intro .info-box {
+			display: flex;
+			align-items: center;
+		}
+
+		#intro img {
+			width: 20%;
+			height: auto;
+			align-self: center;
+			margin: 0px 20px 35px 0px;
+		}

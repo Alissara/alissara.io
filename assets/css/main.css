@@ -3918,7 +3918,7 @@
 
 		}
 
-		/*#intro .info-box {
+		#intro .info-box {
 			display: flex;
 			align-items: center;
 		}
@@ -3928,4 +3928,4 @@
 			height: auto;
 			align-self: center;
 			margin: 0px 20px 35px 0px;
-		}*/
+		}
